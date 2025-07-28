@@ -12,6 +12,8 @@
     <version>7.0.0-M6</version>
 </dependency>
 </dependencies>  
+  
+<!-- new comment -->
 <!-- added comment -->
 <build>
 <finalName>app</finalName>
